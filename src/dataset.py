@@ -11,3 +11,6 @@ df.head(3)
 
 df = df.replace("Alice", "Alice Smith")
 
+print("This is another changes")
+print(df)
+
